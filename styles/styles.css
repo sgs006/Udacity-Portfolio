@@ -185,6 +185,9 @@ footer blockquote {
   .featured-project3 {
     width: 30%
   }
+   .footer{
+    flex-direction: column;
+  }
  
 }
 
