@@ -187,6 +187,7 @@ footer blockquote {
   }
    .footer{
     flex-direction: column;
+    align-content: center;
   }
  
 }
